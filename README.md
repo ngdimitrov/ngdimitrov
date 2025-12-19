@@ -30,4 +30,4 @@
 - Available for AWS DevOps consulting, infrastructure audits and automation projects
 - Reach me via LinkedIn or email for collaboration opportunities
 
-> “Good infrastructure is invisible, stable and automated.”
+> “Good infrastructure is stable and automated.”
