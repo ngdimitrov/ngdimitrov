@@ -23,25 +23,6 @@
 
 ---
 
-### 📈 Currently focusing on
-- AWS EKS production environments  
-- Infrastructure security & DevSecOps  
-- Cloud cost optimization  
-- High availability & disaster recovery  
-
----
-
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ngdimitrov)](https://git.io/streak-stats)
----
-
-### 📌 Featured Projects
-- 🔧 **aws-terraform-infra** – AWS infrastructure managed with Terraform  
-- 🚀 **ci-cd-github-actions** – Reusable CI/CD pipelines  
-- ☁️ **eks-production-setup** – Production-ready EKS cluster  
-
----
-
 ### 🤝 Work & Contact
 - 💼 Full-time DevOps Engineer  
 - 🧩 Freelance AWS DevOps & Cloud consulting  
