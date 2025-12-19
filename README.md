@@ -1,30 +1,14 @@
-## Hi there 👋
-
-<!--
-**ngdimitrov/ngdimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi, I'm Nikolay Dimitrov 👋  
-☁️ AWS DevOps & Cloud Engineer | Automation | CI/CD
+☁️ AWS DevOps & Cloud Engineer | Automation | CI/CD | Infrastructure as Code  
 
 ---
 
 ### 🚀 About me
-- DevOps & Cloud Engineer with production experience
-- Building scalable cloud infrastructure on AWS
-- Automating deployments with Terraform & CI/CD pipelines
-- Working in corporate environment and as a freelancer
+- AWS DevOps & Cloud Engineer with hands-on production experience  
+- Building scalable, secure and reliable cloud infrastructures on AWS  
+- Automating deployments and environments using Terraform and CI/CD pipelines  
+- Improving system reliability, monitoring and cost efficiency  
+- Working both in a corporate environment and as a freelance consultant  
 
 ---
 
@@ -35,21 +19,33 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📈 Currently focusing on
+- AWS EKS production environments  
+- Infrastructure security & DevSecOps  
+- Cloud cost optimization  
+- High availability & disaster recovery  
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ТВОЯ_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngdimitrov&theme=dark)
 
 ---
 
 ### 📌 Featured Projects
-- 🔧 **aws-terraform-infra** – AWS infrastructure with Terraform
-- 🚀 **ci-cd-pipelines** – GitHub Actions CI/CD templates
-- ☁️ **eks-setup** – Production-ready EKS cluster
+- 🔧 **aws-terraform-infra** – AWS infrastructure managed with Terraform  
+- 🚀 **ci-cd-github-actions** – Reusable CI/CD pipelines  
+- ☁️ **eks-production-setup** – Production-ready EKS cluster  
 
 ---
 
-### 🤝 Contact
-📫 LinkedIn | Email  
-💼 Available for AWS DevOps consulting
+### 🤝 Work & Contact
+- 💼 Full-time DevOps Engineer  
+- 🧩 Freelance AWS DevOps & Cloud consulting  
+- 📫 Reach me via GitHub or LinkedIn  
+
+> “Good infrastructure is invisible, stable and automated.”
