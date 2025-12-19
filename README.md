@@ -32,8 +32,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngdimitrov&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ngdimitrov)](https://git.io/streak-stats)
 ---
 
 ### 📌 Featured Projects
