@@ -3,7 +3,7 @@
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaydimitrow)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:n.g.dimitrov11@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=ngdimitrov&color=green)
 
 ### 🚀 About me
 - AWS DevOps & Cloud Engineer with hands-on production experience  
@@ -28,7 +28,12 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngdimitrov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ngdimitrov)](https://git.io/streak-stats)
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ngdimitrov" alt="GitHub Streak" /></a>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngdimitrov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
